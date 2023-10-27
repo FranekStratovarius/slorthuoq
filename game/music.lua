@@ -1,0 +1,27 @@
+return{
+  battle="battle_on_the_fields",
+  {
+    level=1,
+    music="journey_of_the_hero",
+  },
+  {
+    level=2,
+    music="towny_feeling",
+  },
+  {
+    level=3,
+    music="demonic_rampage",
+  },
+  {
+    level=4,
+    music="towny_feeling",
+  },
+  {
+    level=5,
+    music="bells_of_the_church",
+  },
+  {
+    level=6,
+    music="journey_of_the_hero",
+  },
+}
